@@ -1,10 +1,10 @@
-package pro.sky.course2.shop;
+package pro.sky.course2.cart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShopApplicationTests {
+class CartApplicationTests {
 
     @Test
     void contextLoads() {
