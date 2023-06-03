@@ -1,13 +1,13 @@
-package pro.sky.course2.shop;
+package pro.sky.course2.cart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ShopApplication {
+public class CartApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ShopApplication.class, args);
+        SpringApplication.run(CartApplication.class, args);
     }
 
 }
